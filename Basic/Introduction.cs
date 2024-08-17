@@ -1,11 +1,3 @@
-//using System means that we can use classes from the System namespace.
-
-//namespace is used to organize your code, and it is a container for classes and other namespaces.
-
-//class is a container for data and methods, which brings functionality to your program
-
-//Console is a class of the System namespace, which has a WriteLine() method that is used to
-
 using System; 
 
 namespace application 
@@ -20,8 +12,15 @@ namespace application
         
         // Variables
         string name = "John";
+        string name_2 = " Cina";
         Console.WriteLine(name);
-    
+        Console.WriteLine("The length of the txt string is: " + name.Length);
+        Console.WriteLine(name.ToUpper());   
+        Console.WriteLine(name.ToLower()); 
+        Console.WriteLine(name + name_2);
+        string full = string.Concat(name, name_2);
+        Console.WriteLine(full);
+        
         int num = 12;
         Console.WriteLine(num);
         
@@ -60,7 +59,34 @@ namespace application
         Console.WriteLine(Convert.ToInt32(myDouble_2));  // convert double to int
         Console.WriteLine(Convert.ToString(myBool));   // convert bool to string
         
+        
+        // operations
+        
+       int a = 12;
+       double b = 13.34;
+       Console.WriteLine(a*b);
+       
+       int c = 12;
+       int d = 134;
+       Console.WriteLine(d%c);
+       
+       int e = 12;
+       int f = 2;
+       Console.WriteLine(e^f); //XOR
+       Console.WriteLine(e&f); //AND
+       Console.WriteLine(e|f); //OR
+       Console.WriteLine(e>>f); //Right Shift
+       Console.WriteLine(e<<f); //Left Shift
+       
+       //Assignment
+       
+       int x = 10;
+      x += 5;
+      Console.WriteLine(x); 
+      
+      int y = 10;
+      y -= 5;
+      Console.WriteLine(y); 
         }
     }
 }
-    
