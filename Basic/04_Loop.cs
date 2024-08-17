@@ -35,3 +35,22 @@ namespace MyApplication
     }
   }
 }
+
+// Foreach loop
+
+using System;
+
+namespace MyApplication
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      int[] cars = {1,2,3};
+      foreach (int i in cars) 
+      {
+        Console.WriteLine(i);
+      }   
+    }
+  }
+}
