@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20301207\\source\\repos\\Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|c:\\users\\20301207\\source\\repos\\tutorial\\tutorial\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|c:\\users\\20301207\\source\\repos\\tutorial\\tutorial\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|c:\\users\\20301207\\source\\repos\\tutorial\\tutorial\\bankimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\bankimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|c:\\users\\20301207\\source\\repos\\tutorial\\tutorial\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|c:\\users\\20301207\\source\\repos\\tutorial\\tutorial\\tutorial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{95849398-BA0E-4A07-AF57-9DF600334D77}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\tutorial.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Promotion.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Promotion.cs",
+              "ToolTip": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Promotion.cs",
+              "RelativeToolTip": "Tutorial\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:40:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\BankImplementation.cs",
+              "RelativeDocumentMoniker": "Tutorial\\BankImplementation.cs",
+              "ToolTip": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\BankImplementation.cs",
+              "RelativeToolTip": "Tutorial\\BankImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:12:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Customer.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Customer.cs",
+              "ToolTip": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Customer.cs",
+              "RelativeToolTip": "Tutorial\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:10:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Bank.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Bank.cs",
+              "ToolTip": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Bank.cs",
+              "RelativeToolTip": "Tutorial\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:05:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tutorial",
+              "DocumentMoniker": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Tutorial.csproj",
+              "RelativeDocumentMoniker": "Tutorial\\Tutorial.csproj",
+              "ToolTip": "C:\\Users\\20301207\\source\\repos\\Tutorial\\Tutorial\\Tutorial.csproj",
+              "RelativeToolTip": "Tutorial\\Tutorial.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T02:46:51.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\20301207\source\repos\Tutorial\Tutorial\bin\Debug\net8.0\Tutorial.exe
+C:\Users\20301207\source\repos\Tutorial\Tutorial\bin\Debug\net8.0\Tutorial.deps.json
+C:\Users\20301207\source\repos\Tutorial\Tutorial\bin\Debug\net8.0\Tutorial.runtimeconfig.json
+C:\Users\20301207\source\repos\Tutorial\Tutorial\bin\Debug\net8.0\Tutorial.dll
+C:\Users\20301207\source\repos\Tutorial\Tutorial\bin\Debug\net8.0\Tutorial.pdb
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.AssemblyInfo.cs
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.dll
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\refint\Tutorial.dll
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.pdb
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\Tutorial.genruntimeconfig.cache
+C:\Users\20301207\source\repos\Tutorial\Tutorial\obj\Debug\net8.0\ref\Tutorial.dll
