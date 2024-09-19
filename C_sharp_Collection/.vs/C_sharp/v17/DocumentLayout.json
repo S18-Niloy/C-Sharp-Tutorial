@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20301207\\Desktop\\C_sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\c_sharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:c_sharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\stack_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:stack_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\c_sharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:c_sharp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|c:\\users\\20301207\\desktop\\c_sharp\\exception_handling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E562962F-EF83-4C70-B1C1-0E237FD34FD4}|C_sharp.csproj|solutionrelative:exception_handling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C_sharp",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\C_sharp.csproj",
+              "RelativeDocumentMoniker": "C_sharp.csproj",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\C_sharp.csproj",
+              "RelativeToolTip": "C_sharp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T05:53:54.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack_ex.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\Stack_ex.cs",
+              "RelativeDocumentMoniker": "Stack_ex.cs",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\Stack_ex.cs",
+              "RelativeToolTip": "Stack_ex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:49:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\HashTable.cs",
+              "RelativeDocumentMoniker": "HashTable.cs",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\HashTable.cs",
+              "RelativeToolTip": "HashTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:36:22.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\Collection.cs",
+              "RelativeDocumentMoniker": "Collection.cs",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\Collection.cs",
+              "RelativeToolTip": "Collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:19:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C_sharp",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\C_sharp.csproj",
+              "RelativeDocumentMoniker": "C_sharp.csproj",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\C_sharp.csproj",
+              "RelativeToolTip": "C_sharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-17T05:11:02.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exception_handling.cs",
+              "DocumentMoniker": "C:\\Users\\20301207\\Desktop\\C_sharp\\Exception_handling.cs",
+              "RelativeDocumentMoniker": "Exception_handling.cs",
+              "ToolTip": "C:\\Users\\20301207\\Desktop\\C_sharp\\Exception_handling.cs",
+              "RelativeToolTip": "Exception_handling.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:10:55.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
